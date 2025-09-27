@@ -1,4 +1,5 @@
 # TO-DO: get the radius of the circle from the user
+import pandas
 
 # TO-DO: calculate the diameter of the circle
 
